@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">La gema de marvel 1</string>
+    <string name="title_activity_menu_navegacion">menu_navegacion</string>
+
+    <string name="nav_drawer_open">Open navigation drawer</string>
+    <string name="nav_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="login">Inicia sesion</string>
+    <string name="email">Ejemplo@email.com</string>
+    <string name="password">Contraseña</string>
+
+
+
+    <string name="title_activity_register">Registrate</string>
+    <string name="empty_login_field">Campo vacio, por favor, rellena todos los campos para ingresar</string>
+    <string name="login_failed_message">Log in fallados &#8230;, espera unos minutos.</string>
+</resources>
